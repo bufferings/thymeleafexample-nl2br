@@ -22,7 +22,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     <java.version>1.8</java.version>
-    <thymeleaf.version>3.0.7.RELEASE</thymeleaf.version>
+    <thymeleaf.version>3.0.9.RELEASE</thymeleaf.version>
     <thymeleaf-layout-dialect.version>2.2.2</thymeleaf-layout-dialect.version>
   </properties>
 
@@ -47,7 +47,7 @@
     <dependency>
       <groupId>com.github.bufferings</groupId>
       <artifactId>thymeleaf-extras-nl2br</artifactId>
-      <version>1.0.1</version>
+      <version>1.0.2</version>
     </dependency>
   </dependencies>
 
